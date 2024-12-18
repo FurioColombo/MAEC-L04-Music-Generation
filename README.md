@@ -75,3 +75,8 @@ Computes MIDI files high-level features and stores them.
 ### Evaluation
 `/scripts/latent_space_evaluation.py`
 Evaluates the previously extracted features against the latent space sampling coordinates and saves the results.
+
+## Authors
+- Marco Furio Colombo
+- Matteo Pettenò
+- Rebecca Superbo
