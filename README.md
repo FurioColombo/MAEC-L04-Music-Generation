@@ -77,6 +77,6 @@ Computes MIDI files high-level features and stores them.
 Evaluates the previously extracted features against the latent space sampling coordinates and saves the results.
 
 ## Authors
-- Marco Furio Colombo
-- Matteo Pettenò
-- Rebecca Superbo
+- [Marco Furio Colombo](https://github.com/FurioColombo)
+- [Matteo Pettenò](https://github.com/mpetteno-polimi)
+- [Vittoria Malaman](https://github.com/VittoriaMalaman)
