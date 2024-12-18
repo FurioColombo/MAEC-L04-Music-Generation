@@ -79,4 +79,4 @@ Evaluates the previously extracted features against the latent space sampling co
 ## Authors
 - [Marco Furio Colombo](https://github.com/FurioColombo)
 - [Matteo Pettenò](https://github.com/mpetteno-polimi)
-- [Vittoria Malaman](https://github.com/VittoriaMalaman)
+- Vittoria Malaman
